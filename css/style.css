@@ -1,0 +1,492 @@
+body
+{
+    font-family: 'Anton', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Shippori Antique', sans-serif;
+color: rgb(78, 77, 77);
+}
+span
+{
+    color: rgb(32, 32, 180);
+}
+.name
+{
+    margin-top: 20px;
+    font-size: 35;
+    font-weight: 500;
+}
+.job
+{
+    margin-top: 20px;
+    font-size: 25;
+    font-weight: 500;
+margin-left: 10px;
+}
+.icon
+{
+    margin-top: 30px;
+   font-size: 25px;
+    margin-left: 19px;
+    color:rgb(66, 64, 64) ;
+}
+.icon:hover
+{
+    color:rgb(32, 32, 180) ;
+}
+
+/* sec1 */
+.sec1
+{
+    margin-top: 20px;
+    background-color: rgb(253, 253, 253);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.about
+{
+    margin-top: 300px;
+    text-align: center;
+}
+.about1
+{
+    margin-top: 100px;
+    text-align: center;
+}
+.line
+{
+    width: 120px;
+    height: 1px;
+    background-color: rgb(184, 183, 183);
+    margin: auto;
+
+}
+.line2
+{
+    width: 35px;
+    height: 3px;
+    background-color: rgb(32, 32, 180);
+    margin: auto;
+
+
+}
+.line2:hover
+{
+    width: 120px;
+}
+.pragraph
+{
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.about-job
+{
+    color: rgb(126, 137, 148);
+}
+h6
+{
+    display: inline-block;
+    
+}
+.data
+{
+    color: rgb(141, 136, 136);
+}
+.icon-data
+{
+    color:rgb(32, 32, 180);
+}
+.icon-cover
+{
+    background-color: rgb(32, 32, 180);
+    padding: 20px;
+    border-radius: 40%;
+    
+
+}
+.icon-cover
+{
+    color: aliceblue;
+    font-size: 30px;
+}
+.iconcover-data h3
+{
+    margin-left: 7px;
+    margin-top: 30px;
+
+    
+}
+.iconcover-data p{
+    color:rgb(141, 136, 136) ;
+
+}
+.cover{
+width:60px;
+padding: 10px;
+background-color:rgb(214, 211, 211) ;
+border-radius: 50%;
+margin-top: 10px;
+margin-left: 10px;
+
+}
+.cover:hover
+{
+background-color: rgb(32, 32, 180);
+}
+.cover-2
+{
+margin-left: 10px;
+margin-top: 5px;
+color: white;
+font-size: 30px;
+align-items: center;
+
+}
+.cover-22
+{
+    margin-left: 10px;
+margin-top: 5px;
+color: white;
+font-size: 30px;
+align-items: center;
+}
+.cover23
+{
+    background-color: rgb(32, 32, 180);
+    width:60px;
+padding: 10px;
+margin-left: 10px;
+border-radius: 50%;
+margin-top: 10px;
+}
+nav
+{
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    right: 100%;
+    left: 0px;
+
+    
+}
+.html
+{
+color: rgb(73, 72, 72);
+padding-right: 83%;
+}
+.percant
+{
+    color: rgb(73, 72, 72);
+
+}
+.html-mark
+{
+    width: 100%;
+    height: 8px;
+    background-color:rgb(32, 32, 180) ;
+}
+.js-mark
+{
+    width: 75%;
+    height: 8px;
+    background-color:rgb(32, 32, 180) ;
+}
+
+.js
+{
+     color: rgb(73, 72, 72);
+padding-right: 65%;
+}
+.angular
+{
+    color: rgb(73, 72, 72);
+    padding-right: 50%;
+}
+.angular-mark
+{
+    width: 70%;
+    height: 8px;
+    background-color:rgb(32, 32, 180) ;
+}
+.node-mark
+{
+    width: 65%;
+    height: 8px;
+    background-color:rgb(32, 32, 180) ;
+}
+.photoshop
+{
+    color: rgb(73, 72, 72);
+    padding-right: 50%; 
+}
+.node
+{
+    color: rgb(73, 72, 72);
+    padding-right: 46%; 
+}
+.circle
+{
+    height: 18px;
+    width: 18px;
+    background-color: transparent;
+    border: solid 2px rgb(32, 32, 180);
+    border-radius: 50%;
+    margin-left: 58px;
+
+    
+}
+.line-resume
+{
+    height: 218px;
+    width: 1.5px;
+    background-color: rgb(32, 32, 180);
+    margin-left: 66px;
+}
+.sumary-name
+{
+color:rgb(32, 32, 180) ;
+margin-top: 5px;
+}
+.date
+{
+    width: 130px;
+    height: 30px;
+    background-color: rgb(238, 237, 237);
+    text-align: center;
+    border-radius: 9%;
+
+}
+.circle2
+{
+    height: 18px;
+    width: 18px;
+    background-color: transparent;
+    border: solid 2px rgb(32, 32, 180);
+    border-radius: 50%;
+    margin-left: 58px;
+
+    
+}
+.line-resume2
+{
+    height: 125px;
+    width: 1.5px;
+    background-color: rgb(32, 32, 180);
+    margin-left: 66px;
+}
+.circle3
+{
+    height: 18px;
+    width: 18px;
+    background-color: transparent;
+    border: solid 2px rgb(32, 32, 180);
+    border-radius: 50%;
+    margin-left: 58px;
+
+    
+}
+.line-resume3
+{
+    height:90px;
+    width: 1.5px;
+    background-color: rgb(32, 32, 180);
+    margin-left: 66px;
+}
+.service1
+{
+    height: 300px;
+    background-color: rgb(248, 248, 248);
+   text-align: center;
+   margin: auto;
+padding-top: 60px;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.service1:hover
+{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+.globe-icon-cover
+{
+width: 70px;
+height: 70px;
+padding-top: 10px;
+background-color: white;    
+text-align: center;
+border-radius: 30%;
+margin: auto;
+
+}
+.globe-icon
+{
+font-size: 50px;
+color: rgba(34, 137, 255, 0.685);
+text-align: center;
+}
+.file-icon
+{
+    font-size: 50px;
+color: rgb(250, 174, 32);
+text-align: center;
+}
+.temperature-icon
+{
+    
+    font-size: 50px;
+color: rgb(165, 17, 17);
+text-align: center;
+}
+.filter-icon
+{
+    font-size: 50px;
+    color: rgb(255, 189, 67);
+    text-align: center;
+
+}
+.tv-icon
+{
+    font-size: 50px;
+    color: rgb(255, 95, 67);
+    text-align: center;
+}
+.section-three
+{
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 75vh;
+text-align: center;
+font-family: 'Shippori Antique', sans-serif;
+
+
+}
+.padding-auto
+{
+    height: 20px;
+    width: auto;
+    background-color: white;
+}
+.section-three span
+{
+color: rgb(32, 32, 180);
+padding: 30px;
+margin-top: 30px;
+font-family: 'Shippori Antique', sans-serif;
+
+}
+.section-three h2{
+    color: black;
+    font-weight: 900px;
+    font-size: 35;
+    font-family: 'Shippori Antique', sans-serif;
+    margin-top: 10x;
+
+
+}
+
+.icon-sec-5
+{
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    line-height: 60px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: rgb(32, 32, 180);
+    font-size: 18px;
+    margin-bottom: 45px;
+    
+}
+.section-three p{
+    color: #6a6a6a;
+    font-size: 19px;
+    font-weight: 300;
+    font-style: italic;
+    line-height: 35px;
+    margin-bottom: 40px;
+    font-family: 'Shippori Antique', sans-serif;
+
+}
+.section-three .span2{
+    font-size: 15px;
+    margin-bottom: 10px;
+    font-family: 'Shippori Antique', sans-serif;
+
+
+}
+
+.section-three h4
+{
+color: black;
+font-size: 19px;
+font-family: 'Shippori Antique', sans-serif;
+
+}
+.carousel-indicatorsn button
+{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-top: 10px;
+    background-color: rgb(32, 32, 180);
+    border-color: transparent;
+}
+.coverfor-icon
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(227, 228, 255);
+    color:rgb(32, 32, 180) ;
+    font-size: 30px;
+    border-radius: 50%;
+  margin-left: 80px;
+  margin-bottom: 60px;
+}
+.location
+{
+  margin-bottom: 13px;
+
+}
+.location h4{
+    margin-right: 180px;
+}
+.location1 h4{
+    margin-right: 190px;
+}
+.location1 p{
+    margin-right: 180px;
+    font-size: medium;
+}
+.location p{
+    font-size: medium;
+}
+button{
+    background-color:rgb(32, 32, 180)  ;
+    border-radius: 35%;
+    border: solid 1px rgb(32, 32, 180) ;
+    padding: 8px;
+    color: #fff;
+    margin-top: 10px;
+
+}
+footer
+{
+    background-color: #e6e6e6;
+    margin-top: 40px;
+    height: 45vh;
+    width: 100%;
+}
+.footer-name
+{
+    padding-top: 50px;
+    font-weight: bolder;
+}
+footer p
+{
+    font-size: small;
+}
+.footer-icon{
+    color:rgb(32, 32, 180) ;
+    font-size: 25px;
+    margin-left: 10px;
+}
